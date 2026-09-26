@@ -17,7 +17,7 @@ I investigate systems, evidence and human identity. Cybersecurity is my technica
 
 **[South Bank, After Hours](https://github.com/KingStephan18/research-portfolio/blob/main/acting/south-bank-after-hours.md)** — a non-verbal performance study.
 
-**[The Dental Files](https://github.com/KingStephan18/research-portfolio/blob/main/acting/the-dental-files.md)** — a paranormal / deadpan-comedy series concept.
+**[Casework: Unknown](https://github.com/KingStephan18/research-portfolio/blob/main/acting/casework-unknown.md)** — a paranormal / deadpan-comedy series concept.
 
 [FRAME 17](https://github.com/KingStephan18/research-portfolio/blob/main/case-studies/frame-17.md) is a separate AI-assisted unproduced fiction concept, not an acting credit.
 
